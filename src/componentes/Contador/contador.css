@@ -1,0 +1,16 @@
+.contador-titulo {
+    text-align: center;
+}
+
+.contador-incremento {
+    border: none;
+    background-color: lightgreen;
+    padding: 15px;
+    margin-right: 20px;
+}
+
+.contador-decremento {
+    border: none;
+    background-color: lightcoral;
+    padding: 15px;
+}
